@@ -1,5 +1,5 @@
 # rust_perso
-//rust projects that I already did in c or py
+//rust projects that I already did in c or py\n
 105demography:
 • 𝑌 is the population
 • 𝑋 is the year
